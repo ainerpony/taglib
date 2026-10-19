@@ -50,7 +50,7 @@ taglib.xcodeproj
 CMakeScripts
 /.clang-format
 /compile_commands.json
-/build/
+/*[Bb]uild*/
 .clangd
 .cache
 .idea
